@@ -1,6 +1,6 @@
 {
-    "name": "yunzhang/php-comn-func",
-    "description": "云掌财经PHP端公共函数库",
+    "name": "yunzhang/php-comn",
+    "description": "云掌财经PHP端公共库",
     "license": "MIT",
     "keywords": ["php"],
     "version": "1.0.0",
