@@ -19,5 +19,5 @@
             "Vendor\\yunzhang\\": "src/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
