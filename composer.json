@@ -1,0 +1,22 @@
+{
+    "name": "yunzhang/php-comn-func",
+    "description": "云掌财经PHP端公共函数库",
+    "license": "MIT",
+    "keywords": ["php"],
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "GuoBingbing",
+            "email": "46926125@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0"
+    },
+ 
+    "autoload": {
+        "psr-0": {
+            "Vendor\\yunzhang\\": "src/"
+        }
+    }
+}
