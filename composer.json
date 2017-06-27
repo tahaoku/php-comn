@@ -15,7 +15,9 @@
     },
  
     "autoload": { 
-        "files": ["src/comn.func.php"]  
+        "psr-4": {
+            "Yz\\Comn\\": "src/"
+        }
     },
     "minimum-stability": "dev"
 }
